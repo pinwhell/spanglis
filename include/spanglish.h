@@ -2,7 +2,7 @@
 #define __SPANGLISH__H_
 #define puntero_a(x) x*
 #define direccion_de(x) &x
-#define integer int 
+#define entero int 
 #define flotante float
 #define caracter char
 #define doble double
